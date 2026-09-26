@@ -38,3 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Lab2 Next.js
 
 Proyecto de práctica desarrollado con Next.js.
+
+## Rutas
+- / - Página principal
+- /about - Información
+- /blog - Blog
