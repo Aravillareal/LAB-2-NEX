@@ -43,3 +43,11 @@ Proyecto de práctica desarrollado con Next.js.
 - / - Página principal
 - /about - Información
 - /blog - Blog
+
+## Ejecución
+
+Para iniciar el proyecto:
+
+npm install
+
+npm run dev
